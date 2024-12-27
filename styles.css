@@ -27,11 +27,10 @@ body {
     flex-wrap: wrap;
     border: 2px solid black;
     flex: auto;
+    width: 100%;
 }
 
-.grid-div {
-    flex: 1 1 6%;
-}
+
 
 .hover{
     background-color: darkcyan;
